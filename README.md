@@ -1,4 +1,5 @@
-Métodos Estadísticos para Recursos Naturales (2024)
+#Métodos Estadísticos para Recursos Naturales (2024)
+
 ¡Bienvenido/a! Este repositorio contiene los trabajos, análisis y códigos desarrollados durante el curso Métodos Estadísticos en Recursos Naturales, cursado en 2024 como parte de mi formación en Ingeniería Forestal.
 
 El objetivo principal de este espacio es aplicar herramientas de modelación estadística avanzada y Machine Learning para explorar, sintetizar y analizar datos complejos del territorio y los recursos naturales, utilizando el software R.
